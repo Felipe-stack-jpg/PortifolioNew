@@ -3,6 +3,7 @@ import { useState } from "react"
 
 const Header = () => {
 
+    const logo = "/logo.svg"
     const [navopen, setNavopen] = useState(false)
     return (
         <header className="fixed top-0 left-0 w-full z-40 flex items-center bg-gradient-to-b from-zinc-900 to-zinc-900/0">
@@ -13,7 +14,7 @@ const Header = () => {
                         className="logo"
                         >
                         <img 
-                        src="public/logo.svg"  
+                        src={logo}
                         width={40}
                         height={40}
                         alt="Felipe Amorim"
