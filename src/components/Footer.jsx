@@ -40,6 +40,9 @@ const sitemap = [
   ];
 
 const Footer = () => {
+
+  const logo = "/logo.svg"
+  
   return (
     <footer className="section">
         <div className="container">
@@ -110,7 +113,7 @@ const Footer = () => {
                 <a href="/" className="logo reveal-up">
                     
                     <img 
-                    src="public/logo.svg"
+                    src={logo}
                     width={40}
                     height={40}
                     alt="logo"
