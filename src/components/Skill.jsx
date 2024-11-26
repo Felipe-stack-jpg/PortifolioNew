@@ -23,14 +23,14 @@ const skillItem = [
       desc: 'Web Server'
     },
     {
-      imgSrc: '/expressjs.svg',
-      label: 'ExpressJS',
-      desc: 'Node Framework'
+      imgSrc: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/240px-Typescript_logo_2020.svg.png',
+      label: 'TypeScript',
+      desc: 'Programming Language'
     },
     {
-      imgSrc: '/mongodb.svg',
-      label: 'MongoDB',
-      desc: 'Database'
+      imgSrc: 'https://cdn-icons-png.freepik.com/256/7858/7858975.png?semt=ais_hybrid',
+      label: 'UI/UX',
+      desc: 'Design'
     },
     {
       imgSrc: '/react.svg',
