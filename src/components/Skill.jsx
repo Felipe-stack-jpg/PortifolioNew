@@ -3,9 +3,9 @@ import SkillCard from "./Skill.Card.jsx";
 
 const skillItem = [
     {
-      imgSrc: '/figma.svg',
-      label: 'Figma',
-      desc: 'Design tool'
+      imgSrc: 'https://www.svgrepo.com/download/354112/nextjs.svg',
+      label: 'Nextjs',
+      desc: 'Framework'
     },
     {
       imgSrc: '/css3.svg',
@@ -28,8 +28,8 @@ const skillItem = [
       desc: 'Programming Language'
     },
     {
-      imgSrc: 'https://cdn-icons-png.freepik.com/256/7858/7858975.png?semt=ais_hybrid',
-      label: 'UI/UX',
+      imgSrc: 'https://mui.com/static/logo.png',
+      label: 'Material UI',
       desc: 'Design'
     },
     {
