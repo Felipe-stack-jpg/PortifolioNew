@@ -14,6 +14,12 @@ const works = [
       tags: ['Web-Design', 'Development'],
       projectLink: 'https://barber-nine-sage.vercel.app/'
     },
+    {
+        imgSrc: 'Dashboard.jpg',
+        title: 'Front End DashBoard',
+        tags: ['Web-Design', 'Next.js'],
+        projectLink: 'https://dashboard-theta-gold.vercel.app/'
+      },
   ];
 
 
