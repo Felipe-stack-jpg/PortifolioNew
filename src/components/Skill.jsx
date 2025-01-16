@@ -28,8 +28,8 @@ const skillItem = [
       desc: 'Programming Language'
     },
     {
-      imgSrc: 'https://mui.com/static/logo.png',
-      label: 'Material UI',
+      imgSrc: 'https://suhelmakkad.gallerycdn.vsassets.io/extensions/suhelmakkad/shadcn-ui/0.1.1/1695843310552/Microsoft.VisualStudio.Services.Icons.Default',
+      label: 'shadcn/ui',
       desc: 'Design'
     },
     {
